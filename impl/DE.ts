@@ -119,7 +119,46 @@ const language: Language = {
 			'mühelos. Entwickelt für Geschwindigkeit und Einfachheit, für Spieler, von Spielern.',
 		'See why players love osu.direct': 'Schau, warum Spieler osu.direct lieben',
 		'Terms of Service': 'Nutzungsbedingungen',
-    'Download for Windows': "Download für Windows"
+		'Download for Windows': 'Download für Windows',
+		'By accessing or using our website, you agree to comply with and be bound by the following Terms of Service ("TOS"). These terms are in place to ensure fair and lawful use of our services. By continuing to browse or use osu.direct, you confirm that you have read, understood, and agreed to these terms. If you do not agree with any part of these terms, please refrain from using our service.':
+			'Indem Sie auf unsere Website zugreifen oder sie nutzen, erklären Sie sich damit einverstanden, die folgenden Nutzungsbedingungen ("TOS") einzuhalten. Diese Bedingungen dienen dazu, eine faire und rechtmäßige Nutzung unserer Dienste zu gewährleisten. Indem Sie osu.direct weiterhin durchsuchen oder nutzen, bestätigen Sie, dass Sie diese Bedingungen gelesen und verstanden haben und ihnen zustimmen. Wenn Sie mit irgendeinem Teil dieser Bedingungen nicht einverstanden sind, sehen Sie bitte von der Nutzung unseres Dienstes ab.',
+		'We encourage you to review these Terms of Service periodically, as they may be updated to reflect changes in legal requirements, service improvements, or community guidelines. Your continued use of osu.direct after any modifications constitutes acceptance of the revised terms.':
+			'Wir empfehlen Ihnen, diese Nutzungsbedingungen in regelmäßigen Abständen zu überprüfen, da sie aktualisiert werden können, um Änderungen der rechtlichen Anforderungen, Serviceverbesserungen oder Community-Richtlinien zu berücksichtigen. Wenn Sie osu.direct nach einer Änderung weiterhin nutzen, erklären Sie sich mit den überarbeiteten Bedingungen einverstanden.',
+		'1. Acceptance of Terms': '1. Akzeptanz der Bedingungen',
+		'By using osu.direct, you agree to these Terms of Service and our Privacy Policy. You acknowledge that these terms form a binding agreement between you and osu.direct. We reserve the right to modify these terms at any time to accommodate new features, legal requirements, or other considerations. Any updates will be clearly communicated on our website, and it is your responsibility to stay informed about changes. Continued use of osu.direct signifies your acceptance of any modifications.':
+			'Durch die Nutzung von osu.direct erklären Sie sich mit diesen Nutzungsbedingungen und unserer Datenschutzrichtlinie einverstanden. Sie erkennen an, dass diese Bedingungen eine verbindliche Vereinbarung zwischen Ihnen und osu.direct darstellen. Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern, um neue Funktionen, rechtliche Anforderungen oder andere Überlegungen zu berücksichtigen. Alle Aktualisierungen werden auf unserer Website deutlich bekannt gegeben, und es liegt in Ihrer Verantwortung, sich über Änderungen zu informieren. Die weitere Nutzung von osu.direct bedeutet, dass Sie mit den Änderungen einverstanden sind.',
+		'2. Use of the Service': '2. Nutzung des Dienstes',
+		'osu.direct provides a mirror for osu! beatmaps for convenience.':
+			'osu.direct bietet der Einfachheit halber eine backup für osu! beatmaps.',
+		'You agree not to use this service for any illegal or unauthorized purposes.':
+			'Sie verpflichten sich, diesen Dienst nicht für illegale oder unbefugte Zwecke zu nutzen.',
+		'You may not attempt to disrupt, modify, or exploit the service in any way.':
+			'Sie dürfen nicht versuchen, den Dienst in irgendeiner Weise zu stören, zu verändern oder auszunutzen.',
+		'Users can authenticate with Discord to create and manage beatmap collections.':
+			'Benutzer können sich mit Discord authentifizieren, um Beatmap-Sammlungen zu erstellen und zu verwalten.',
+		'Users can download beatmaps directly from the website.':
+			'Die Nutzer können Beatmaps direkt von der Website herunterladen.',
+		'Authentication is handled through the Discord API, and basic user data such as email, username and token is collected. This data is encrypted on our end to ensure security.':
+			'Die Authentifizierung erfolgt über die Discord-API, und es werden grundlegende Benutzerdaten wie E-Mail, Benutzername und Token erfasst. Diese Daten werden auf unserer Seite verschlüsselt, um die Sicherheit zu gewährleisten.',
+		'3. Intellectual Property': '3. Geistiges Eigentum',
+    'osu.direct does not claim ownership of the beatmaps hosted on the platform. All beatmaps remain the property of their respective creators.': 'osu.direct erhebt keinen Anspruch auf das Eigentum an den auf der Plattform gehosteten Beatmaps. Alle Beatmaps verbleiben im Eigentum ihrer jeweiligen Schöpfer.',
+    'By using the service, you acknowledge that osu! and its assets are trademarks of ppy Pty Ltd.': 'Durch die Nutzung des Dienstes erkennen Sie an, dass osu! und seine Vermögenswerte Marken von ppy Pty Ltd sind.',
+    'If you are a content owner and wish to request removal of your work, please contact us.': 'Wenn Sie ein Eigentümer von Inhalten sind und die Entfernung Ihres Werks beantragen möchten, wenden Sie sich bitte an uns.',
+    '4. User Conduct': '4. Benutzerverhalten',
+    'You agree to use the service responsibly and not abuse it.': 'Sie verpflichten sich, den Dienst verantwortungsbewusst zu nutzen und ihn nicht zu missbrauchen.',
+    'Do not upload or distribute any malicious, illegal, or copyrighted content without permission.': 'Laden Sie keine bösartigen, illegalen oder urheberrechtlich geschützten Inhalte ohne Erlaubnis hoch oder verbreiten Sie diese nicht.',
+    'Automatic downloading is allowed, but spamming API routes will lead to a ban.': 'Automatisches Herunterladen ist erlaubt, aber Spamming von API-Routen führt zu einer Sperre.',
+    '5. Liability Disclaimer': '5. Haftungsausschluss',
+    'osu.direct is provided "as is" without any warranties or guarantees.': 'osu.direct wird "wie besehen" zur Verfügung gestellt, ohne jegliche Garantien oder Gewährleistungen.',
+    'We are not responsible for any damage, loss of data, or disruptions caused by using our service.': 'Wir haften nicht für Schäden, Datenverluste oder Störungen, die durch die Nutzung unseres Dienstes verursacht werden.',
+    'We reserve the right to limit or terminate access to the service at any time.': 'Wir behalten uns das Recht vor, den Zugang zum Dienst jederzeit zu beschränken oder zu beenden.',
+    '6. Termination': '6. Beendigung',
+    'We reserve the right to suspend or terminate access to osu.direct at our discretion if users violate these terms or engage in harmful behavior. We may also restrict access to the service if it is necessary to protect the security and integrity of our platform.': 'Wir behalten uns das Recht vor, den Zugang zu osu.direct nach eigenem Ermessen auszusetzen oder zu beenden, wenn Nutzer gegen diese Bedingungen verstoßen oder ein schädliches Verhalten an den Tag legen. Wir können auch den Zugang zum Dienst einschränken, wenn dies notwendig ist, um die Sicherheit und Integrität unserer Plattform zu schützen.',
+    '7. Changes to the Terms': '7. Änderungen der Bedingungen',
+    'We may modify these terms at any time. Continued use of osu.direct after changes are posted constitutes acceptance of the updated terms.': 'Wir können diese Bedingungen jederzeit ändern. Die fortgesetzte Nutzung von osu.direct nach der Veröffentlichung von Änderungen bedeutet die Annahme der aktualisierten Bedingungen.',
+    '8. Contact': '8. Kontakt',
+    'For any questions or concerns about these terms, please contact us on our Discord:': 'Wenn Sie Fragen oder Bedenken bezüglich dieser Bedingungen haben, kontaktieren Sie uns bitte auf unserem Discord:',
+    'Last Updated': 'Zuletzt aktualisiert'
 	}
 };
 
