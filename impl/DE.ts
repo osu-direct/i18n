@@ -70,6 +70,7 @@ const language: Language = {
 		'Download (no video)': 'Download (ohne video)',
 		'Add to collection.db': 'Zu collection.db hinzufügen',
 		Favourite: 'Favorisieren',
+		Collections: 'Kollektionen',
 		'Edit Collection': 'Kollekiton bearbeiten',
 		'Delete Collection': 'Kollektion löschen',
 		'Show Unranked Guest Participations': 'Ungerankte Gastteilnahmen anzeigen',
@@ -116,7 +117,9 @@ const language: Language = {
 		'Search, discover, and download osu! beatmaps': 'Suche, entdecke und downloade osu! beatmaps',
 		'effortlessly. Built for speed and simplicity, designed for players, by players.':
 			'mühelos. Entwickelt für Geschwindigkeit und Einfachheit, für Spieler, von Spielern.',
-		'See why players love osu.direct': 'Schau, warum Spieler osu.direct lieben'
+		'See why players love osu.direct': 'Schau, warum Spieler osu.direct lieben',
+		'Terms of Service': 'Nutzungsbedingungen',
+    'Download for Windows': "Download für Windows"
 	}
 };
 
