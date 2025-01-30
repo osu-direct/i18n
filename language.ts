@@ -1,4 +1,4 @@
-import US from "./impl/EN";
+import EN from "./impl/EN";
 import DE from "./impl/DE";
 
 export type Language = {
@@ -9,7 +9,7 @@ export type Language = {
   phrases: { [key: string]: string };
 };
 
-export const languages: Language[] = [US, DE];
+export const languages: Language[] = [EN, DE];
 
 export const getLanguage = (code: string) =>
   languages.find((lang) => lang.code === (code?.toUpperCase() ?? "EN")) ||
