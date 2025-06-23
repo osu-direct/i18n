@@ -170,7 +170,11 @@ const language: Language = {
 		'8. Contact': '8. Kontakt',
 		'For any questions or concerns about these terms, please contact us on our Discord:':
 			'Wenn Sie Fragen oder Bedenken bezüglich dieser Bedingungen haben, kontaktieren Sie uns bitte auf unserem Discord:',
-		'Last Updated': 'Zuletzt aktualisiert'
+		'Last Updated': 'Zuletzt aktualisiert',
+		"Discover and Download Beatmaps with Ease": "Beatmaps ganz einfach entdecken und herunterladen",
+		"Experience the seamless and powerful osu.direct app": "Erlebe die nahtlose und leistungsstarke osu.direct App",
+		"Ready to get started?": "Bereit durchzustarten?",
+		"Download the app now and explore beatmaps like never before.": "Lade jetzt die App herunter und entdecke Beatmaps wie nie zuvor."
 	}
 };
 
