@@ -7,7 +7,7 @@ export type Language = {
 	name: string;
 	code: string;
 	aliases?: string[];
-	translator: string;
+	translator: string | string[];
 	phrases: { [key: string]: string };
 };
 
