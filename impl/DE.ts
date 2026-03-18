@@ -67,7 +67,7 @@ const language: Language = {
 		'Download Queue': 'Warteschlange',
 		'Download Maps': 'Maps herrunterladen',
 		'Download Maps (no video)': 'Maps herrunterladen (ohne video)',
-		'Download (no video)': 'Download (ohne video)',
+		'Download (no video)': 'Herrunterladen (ohne video)',
 		'Add to collection.db': 'Zu collection.db hinzufügen',
 		Favourite: 'Favorisieren',
 		Collections: 'Kollektionen',
